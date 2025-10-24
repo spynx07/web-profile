@@ -20,12 +20,13 @@ function download() {
 
 function confirmDownload() {
   alert("Downloaded Successfully");
-  window.location.href = "/index.html";
+  window.location.href = "./index.html";
 }
 
 function cancelDownload() {
-  window.location.href = "/index.html";
+  window.location.href = "./index.html";
 }
+
 
 // -----------------------------
 // BACKGROUND ANIMATION
