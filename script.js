@@ -20,11 +20,11 @@ function download() {
 
 function confirmDownload() {
   alert("Downloaded Successfully");
-  window.location.href = "/Dashboard.php";
+  window.location.href = "/index.html";
 }
 
 function cancelDownload() {
-  window.location.href = "/Dashboard.php";
+  window.location.href = "/index.html";
 }
 
 // -----------------------------
