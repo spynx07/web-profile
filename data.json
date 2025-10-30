@@ -1,0 +1,68 @@
+{
+  "aboutMe": {
+    "self": "Hi! I'm Spynx, a web developer passionate about building clean and efficient web solutions.",
+    "moreInfo": "I focus on creating websites that are user-friendly, functional, and visually appealing. I love learning new technologies and improving my coding skills.",
+    "hobbies": ["Coding", "Gaming", "Reading", "Music"],
+    "ideUsed": ["VS Code", "PhpStorm", "Sublime Text"]
+  },
+  "works": [
+    {
+      "title": "Bus Ticket",
+      "description": "A simple booking website",
+      "features": ["Booking Website", "User", "Admin"],
+      "image": "images/bus.png"
+    },
+    {
+      "title": "Smart Crop Planner",
+      "description": "A website that can be useful to local farmers, businesses, and anyone who wants to plant",
+      "features": ["Crop Data", "Farmer", "Admin", "Business", "User"],
+      "image": "images/crop.png"
+    },
+    {
+      "title": "News Website",
+      "description": "A static website that focuses on news",
+      "features": ["Admin", "User"],
+      "image": "images/news.png"
+    }
+  ],
+  "knowledge": [
+    {"name": "HTML", "icon": "images/htmlIcon.png", "levels": [20, 40, 50]},
+    {"name": "CSS", "icon": "images/cssIcon.png", "levels": [10, 20, 40]},
+    {"name": "JavaScript", "icon": "images/jsIcon.jpg", "levels": [50, 50, 50]},
+    {"name": "PHP", "icon": "images/phpIcon.png", "levels": [70, 80, 90]},
+    {"name": "MySQL", "icon": "images/mysqlIcon.png", "levels": [70, 80, 90]},
+    {"name": "C#", "icon": "images/csharp.png", "levels": [70, 80, 90]}
+  ],
+  "education": [
+    {
+      "level": "Primary",
+      "description": "Life was carefree back then.",
+      "details": {
+        "Graduated": "San Antonio Elementary School",
+        "Grade": "6",
+        "Batch": "2014-2015",
+        "Link": "#"
+      }
+    },
+    {
+      "level": "Secondary",
+      "description": "School became a bit more challenging but fun.",
+      "details": {
+        "Junior High": "Aparri East National High School",
+        "Senior High": "Aparri East National High School",
+        "Course": "Technical Vocational Livelihood",
+        "Link": "#"
+      }
+    },
+    {
+      "level": "Tertiary",
+      "description": "This time is when you question what life is.",
+      "details": {
+        "School": "Cagayan State University",
+        "Campus": "Aparri",
+        "Course": "Bachelor of Science in Information Technology",
+        "Link": "#"
+      }
+    }
+  ]
+}
